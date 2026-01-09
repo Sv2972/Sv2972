@@ -20,7 +20,7 @@ I'm a final year B.Tech student specializing in <b>Computer Science (Health Info
 </ul>
 </td>
 <td width="40%" align="center">
-<img src="[https://giphy.com/explore/web-codin](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdsdGgzaGYwMnVqN2dpOXl2NnFtMWY2a29kdjVtNGsyb2EwbTc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdsdGgzaGYwMnVqN2dpOXl2NnFtMWY2a29kdjVtNGsyb2EwbTc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
 width="100%" alt="coding">
 </td>
 </tr>
