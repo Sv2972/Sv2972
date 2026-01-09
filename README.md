@@ -47,3 +47,6 @@ const Shubham = {
     },
     current_status: "Open to Work / Internships"
 };
+
+📊 My Github Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sv2972&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shubham's Github Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv2972&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" /> </div>
