@@ -9,7 +9,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="65%">
+    <td width="60%">
       I'm a final year B.Tech student specializing in <b>Computer Science (Health Informatics)</b>, passionate about building Generative AI applications and robust machine learning models.
 
       <br><br>
@@ -24,8 +24,8 @@
         <li>📫 How to Reach me: <a href="mailto:shubhamv4488@gmail.com"><b>shubhamv4488@gmail.com</b></a></li>
       </ul>
     </td>
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhkcm1mcjMzY29pYjZ2eHRuam1qZnV3YjJ3aGZ6bGM1aGZ6bGM1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L1R1TVThqceK6M8XF0/giphy.gif" width="200" alt="coding">
+    <td width="40%" align="center">
+      <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhkcm1mcjMzY29pYjZ2eHRuam1qZnV3YjJ3aGZ6bGM1aGZ6bGM1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L1R1TVThqceK6M8XF0/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhkcm1mcjMzY29pYjZ2eHRuam1qZnV3YjJ3aGZ6bGM1aGZ6bGM1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L1R1TVThqceK6M8XF0/giphy.gif)" width="100%" alt="coding">
     </td>
   </tr>
 </table>
