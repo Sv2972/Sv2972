@@ -34,7 +34,7 @@
 
 ### 💭 A little more about my technical skills
 
-```javascript
+javascript
 const Shubham = {
     pronouns: "He" | "Him",
     focus: ["Generative AI", "Machine Learning", "Health Informatics", "DSA"],
