@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi, I'm Shubham!
+
+[📄 Download My Resume](./Shubham_Verma_Resume.pdf)
 
 <!--
 **Sv2972/Sv2972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
