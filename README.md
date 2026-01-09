@@ -25,7 +25,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhkcm1mcjMzY29pYjZ2eHRuam1qZnV3YjJ3aGZ6bGM1aGZ6bGM1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L1R1TVThqceK6M8XF0/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhkcm1mcjMzY29pYjZ2eHRuam1qZnV3YjJ3aGZ6bGM1aGZ6bGM1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L1R1TVThqceK6M8XF0/giphy.gif)" width="100%" alt="coding">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhkcm1mcjMzY29pYjZ2eHRuam1qZnV3YjJ3aGZ6bGM1aGZ6bGM1ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L1R1TVThqceK6M8XF0/giphy.gif" width="100%" alt="coding">
     </td>
   </tr>
 </table>
@@ -34,7 +34,7 @@
 
 ### 💭 A little more about my technical skills
 
-javascript
+```javascript
 const Shubham = {
     pronouns: "He" | "Him",
     focus: ["Generative AI", "Machine Learning", "Health Informatics", "DSA"],
@@ -47,6 +47,3 @@ const Shubham = {
     },
     current_status: "Open to Work / Internships"
 };
-
-📊 My Github Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sv2972&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Shubham's Github Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sv2972&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" /> </div>
