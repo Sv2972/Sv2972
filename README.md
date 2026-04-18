@@ -11,7 +11,7 @@ I'm a final year B.Tech student specializing in <b>Computer Science (Health Info
 <br><br>
 <ul>
 <li>👋 Hi, I'm <b>Shubham Verma</b>.</li>
-<li>🎓 Final year B.Tech student at <b>VIT Bhopal University</b> (GPA: 7.7/10.0).</li>
+<li>🎓 Final year B.Tech student at <b>VIT Bhopal University</b> (GPA: 8.05/10.0).</li>
 <li>🔭 I'm currently focused on <b>Generative AI (RAG)</b>, <b>Machine Learning</b>, and <b>Data Structures & Algorithms</b>.</li>
 <li>💡 Key Projects include <b>Medical Chatbot (GenAI)</b>, <b>Diabetes Prediction Classifier</b>, and <b>Hip Navigation App</b>.</li>
 <li>🏅 Certified as <b>Oracle Cloud Infrastructure 2025 Generative AI Professional</b>.</li>
